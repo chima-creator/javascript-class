@@ -1,0 +1,9 @@
+.form-container-1{
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+    justify-content:first baseline;
+    align-items: first baseline;
+    display: flex;
+    position: fixed;
+}
